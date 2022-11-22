@@ -1,4 +1,4 @@
-# steps of adding react to a webpage
+# steps for adding react to a webpage
 1. create a empty element with a id, this element will be use to place your react component
 ```html
 <div id="root">
